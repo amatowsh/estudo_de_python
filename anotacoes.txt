@@ -1,0 +1,11 @@
+Anotação de alguns conceitos
+
+- | a sintaxe no python é extremamente sensível |, e só funciona se for 
+corretamente seguida.
+
+- || e && -> 'or' e 'and'
+
+try -> tenta executar o código que pode falhar.
+except -> captura e trata os erros.
+else -> executa apenas se nenhum erro ocorreu.
+finally -> executa sempre, aconteça erro ou não.
