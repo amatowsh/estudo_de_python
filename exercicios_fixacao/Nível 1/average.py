@@ -14,9 +14,9 @@ while True:
         print("Erro: o valor inserido não é um número.\n")
         continue
 
-    media = (n1 + n2 + n3)/3
+    media = (n1 + n2 + n3) / 3
 
     print(f"Média: {media:.2f}")
     print("Aluno aprovado!\n" if media >= 6 else "Aluno reprovado!\n")
-    
+
 print("Encerrando...")
